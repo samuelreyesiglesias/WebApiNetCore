@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiNetCore", "WebApiNetCore.csproj", "{12D7C9D4-940A-412B-9D6C-EC6760A9F074}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiNetCore", "WebApiNetCore.csproj", "{12D7C9D4-940A-412B-9D6C-EC6760A9F074}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppClient", "..\ConsoleAppClient\ConsoleAppClient.csproj", "{E68D1F1F-2605-4C85-809F-3BC359B1D31D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppClient", "ConsoleAppClient\ConsoleAppClient.csproj", "{FC5857B7-6E28-40AB-A556-5C6BDC191D76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{12D7C9D4-940A-412B-9D6C-EC6760A9F074}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12D7C9D4-940A-412B-9D6C-EC6760A9F074}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12D7C9D4-940A-412B-9D6C-EC6760A9F074}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E68D1F1F-2605-4C85-809F-3BC359B1D31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E68D1F1F-2605-4C85-809F-3BC359B1D31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E68D1F1F-2605-4C85-809F-3BC359B1D31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E68D1F1F-2605-4C85-809F-3BC359B1D31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5857B7-6E28-40AB-A556-5C6BDC191D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5857B7-6E28-40AB-A556-5C6BDC191D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5857B7-6E28-40AB-A556-5C6BDC191D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5857B7-6E28-40AB-A556-5C6BDC191D76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
